@@ -1,5 +1,6 @@
 # personal
 *.code-workspace
+*.markdownlint.json
 
 # dependencies
 /node_modules
