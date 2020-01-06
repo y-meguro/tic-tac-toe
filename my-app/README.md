@@ -1,8 +1,3 @@
-# tic-tac-toe
-
-- [チュートリアル：React の導入 – React](https://ja.reactjs.org/tutorial/tutorial.html)
-- 以下 `create-react-app` から作成された README
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
